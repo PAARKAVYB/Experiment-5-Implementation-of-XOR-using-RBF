@@ -24,7 +24,7 @@ The RBF of hidden neuron as gaussian function
 
 <img width="206" alt="image" src="https://user-images.githubusercontent.com/112920679/201302321-a09f72e9-2352-4f88-838c-3324f6c5f57e.png">
 
-## ALGORIHM:
+## ALGORITHM:
 ### STEP 1:
 Initialize the input patterns for XOR Gate.
 ### STEP 2:
